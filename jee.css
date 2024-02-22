@@ -117,6 +117,17 @@ about start
     -webkit-box-reflect: below
     1px linear-gradient(transparent, #0005);
 }
+#submit{
+    border: solid blue;
+    box-shadow: -5px -3px 3px blue;
+    transition: 1min;
+    transition-duration: 2sec;
+}
+#submit:hover{
+    border-radius: 50%;
+    color: tomato;
+    
+}
 
 
 
